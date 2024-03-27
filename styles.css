@@ -53,8 +53,20 @@ h1{
   border-radius:1rem;
   border:none;
 }
+#new-btn2{
+  padding:0.75rem;
+  font-size:1.25rem;
+  background-color: #191913;
+  color:#fff;
+  border-radius:1rem;
+  border:none;
+}
 
 #msg{
+  color:#fff;
+  font-size: 5vmin;
+}
+#msg2{
   color:#fff;
   font-size: 5vmin;
 }
@@ -74,4 +86,15 @@ h1{
 #anim{
   position:absolute;
   z-index:-1;
+}
+.draw{
+  height:100vmin;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap:4rem;
+}
+.hide2{
+  display:none;
 }
