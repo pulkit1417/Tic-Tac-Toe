@@ -11,6 +11,7 @@ CSS: Utilized for styling and enhancing the visual appeal.<br>
 JavaScript: Core concepts of JavaScript are implemented to handle game logic and user interactions.
 ### How to Run:
 You can access and play the game by clicking on the following link:
+https://pulkit1417.github.io/Tic-Tac-Toe/
 
 ### Feedback:
 Your feedback is valuable! If you have any suggestions, encounter any issues, or want to contribute to the project, feel free to reach out.
