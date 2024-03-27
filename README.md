@@ -6,8 +6,8 @@ Interactive Gameplay: Enjoy smooth and interactive gameplay with intuitive contr
 Clear Visual Feedback: Visual cues make it easy to see whose turn it is and the outcome of the game.
 Simple and Elegant UI: The user interface is clean and straightforward, focusing on the essence of the game.
 ### Technologies Used:
-HTML: Used for structuring the web page.
-CSS: Utilized for styling and enhancing the visual appeal.
+HTML: Used for structuring the web page.<br>
+CSS: Utilized for styling and enhancing the visual appeal.<br>
 JavaScript: Core concepts of JavaScript are implemented to handle game logic and user interactions.
 ### How to Run:
 You can access and play the game by clicking on the following link:
